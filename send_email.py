@@ -2,7 +2,7 @@ import win32com.client as win32
 from string import Template
 import pandas
 
-SUBJECT = "Стенд тестирования Rockwool"
+SUBJECT = "Subject text"
 
 
 def get_users_info(excel_file_name):
